@@ -4,7 +4,7 @@ Bienvenue sur mon GitHub ! Je suis Pierre Legoux, un développeur web full stack
 
 ## Qui suis-je ? 🌟
 
-Depuis un an, je travaille en tant que développeur web freelance, aidant les TPE/PME à créer des sites web performants et attrayants. Fondateur de l'agence **Legoux du Web**, je m'efforce de transformer des idées en projets concrets grâce à mes compétences en développement web.
+Depuis deux ans, je travaille en tant que développeur web freelance, aidant les TPE/PME à créer des sites web performants et attrayants. Fondateur de l'agence **Legoux du Web**, je m'efforce de transformer des idées en projets concrets grâce à mes compétences en développement web.
 
 ## Mes Valeurs et Principes 🧭
 
