@@ -41,7 +41,8 @@ Les contributions et collaborations sont toujours les bienvenues ! Si vous avez 
 ## Me Contacter 📬
 
 - **Email** : hello@pierrelegoux.fr
-- **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/pierre-legoux47/)
+- **Mon portfolio** : [@pierre_legoux](https://www.pierrelegoux.fr)
+- **LinkedIn** pour y voir toutes mes actus : [Mon Profil](https://www.linkedin.com/in/pierre-legoux47/)
 - **Malt** : [@pierre_legoux](https://www.malt.fr/profile/pierrelegoux1)
 
 ---
