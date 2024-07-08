@@ -13,7 +13,7 @@ Depuis deux ans, je travaille en tant que développeur web freelance, aidant les
 - **Autonomie** 💪 : Capable de travailler de manière indépendante tout en restant en communication constante avec mes clients.
 - **Honnêteté et Transparence** 🤝 : La confiance est la clé de toute bonne collaboration.
 
-## Technologies etcCompétences 💻
+## Technologies et compétences 💻
 
 - **JavaScript** : Langage principal pour le développement front-end et back-end.
 - **React.JS** : Framework préféré pour construire des interfaces utilisateurs réactives et dynamiques.
