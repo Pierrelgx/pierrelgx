@@ -20,7 +20,7 @@ Depuis deux ans, je travaille en tant que développeur web freelance, aidant les
 - **Tailwind CSS** : Pour un design moderne et réactif.
 - **WordPress** : Pour la création de sites web robustes et faciles à gérer.
 
-## Projets Réalisés 🚀
+## Projets réalisés 🚀
 
 ### 1. La Signature Fastoche 🎉
 Une application web permettant de créer des signatures d'emails professionnelles et stylées. [Découvrir ici](https://signature-fastoche.fr/)
@@ -38,7 +38,7 @@ Les contributions et collaborations sont toujours les bienvenues ! Si vous avez 
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvre une Pull Request
 
-## Me Contacter 📬
+## Me contacter 📬
 
 - **Email** : hello@pierrelegoux.fr
 - **Mon portfolio** : [@pierre_legoux](https://www.pierrelegoux.fr)
