@@ -25,7 +25,7 @@ Depuis deux ans, je travaille en tant que développeur web freelance, aidant les
 ### 1. La Signature Fastoche 🎉
 Une application web permettant de créer des signatures d'emails professionnelles et stylées. [Découvrir ici](https://signature-fastoche.fr/)
 
-### 2. [Side project] 🌐
+### 2. WodZone 🌐
 Pour le moment, je n'en dis pas plus ! Stay tuned 😎
 
 ## Contribuer 🤝
