@@ -1,6 +1,6 @@
 # 👨‍💻 Pierre Legoux - Développeur Web Full Stack
 
-Bienvenue sur mon GitHub ! Je suis Pierre Legoux, un développeur web full stack passionné, créatif et indépendant, basé en France. 🚀
+Bienvenue sur mon GitHub ! Je suis Pierre Legoux, un développeur web full stack passionné, créatif et indépendant, basé en France. 🚀 
 
 ## Qui suis-je ? 🌟
 
