@@ -37,6 +37,7 @@ Les contributions et collaborations sont toujours les bienvenues ! Si vous avez 
 3. Commit tes modifications (`git commit -m 'Add some AmazingFeature'`)
 4. Push vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvre une Pull Request
+6. Laisse moi le temps de découvrir hihihihi
 
 ## Me contacter 📬
 
