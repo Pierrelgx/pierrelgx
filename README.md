@@ -7,4 +7,4 @@
 
 ---
 
-Piou piou piou pin pon pin pon ✨
+Piou ✨
