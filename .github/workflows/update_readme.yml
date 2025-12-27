@@ -33,6 +33,4 @@ jobs:
           author_email: pl.informatique47@gmail.com
           add: 'README.md'
           message: ':memo: README.md updated !'
-        env:
-          # This is necessary in order to push a commit to the repo
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
