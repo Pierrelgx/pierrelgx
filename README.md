@@ -1,4 +1,4 @@
-# 👨‍💻 Pierre Legoux 
+# 👨‍💻 Pierre Legoux
 
 - **Email** : hello@pierrelegoux.fr
 - **Mon portfolio** : [@pierre_legoux](https://www.pierrelegoux.fr)
@@ -7,4 +7,24 @@
 
 ---
 
-Joyeux Noël à tous et bonnes vacaaaaances 🎄🎅
+## 📊 Mon parcours
+
+J'ai commencé ma toute première ligne de code depuis très exactement **1456 jours**.
+
+J'ai actuellement **32 ans** et je suis d'humeur **joviaaaaale**.
+
+---
+
+## 📅 Aujourd'hui
+
+Nous sommes le **samedi 27 décembre 2025**.
+
+---
+
+## 💡 Citation du jour
+
+> La documentation, c'est un cadeau que tu fais à ton futur toi.
+
+---
+
+*README mis à jour automatiquement tous les jours* ✨

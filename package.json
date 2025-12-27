@@ -1,0 +1,11 @@
+{
+  "name": "pierrelgx-readme",
+  "version": "1.0.0",
+  "description": "Auto-updating README with daily quotes and date",
+  "main": "index.js",
+  "scripts": {
+    "update": "node index.js"
+  },
+  "author": "Pierre Legoux",
+  "license": "MIT"
+}

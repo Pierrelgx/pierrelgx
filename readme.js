@@ -1,11 +1,31 @@
-module.exports = `
-# Mon Profil
+module.exports = `# 👨‍💻 Pierre Legoux
 
-J'ai commendé ma touuuuute première ligne de code depuis très exactement <#variable_duree> ;
+- **Email** : hello@pierrelegoux.fr
+- **Mon portfolio** : [@pierre_legoux](https://www.pierrelegoux.fr)
+- **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/pierre-legoux47/)
+- **Malt** : [@pierre_legoux](https://www.malt.fr/profile/pierrelegoux1)
 
-J'ai actuellement <#variable_age> ;
+---
 
-Et je suis d'humeur <#mood>.
+## 📊 Mon parcours
 
-Nous sommes le Jeudi 27 Juin 2024 maggle
+J'ai commencé ma toute première ligne de code depuis très exactement **<#variable_duree>**.
+
+J'ai actuellement **<#variable_age>** et je suis d'humeur **<#mood>**.
+
+---
+
+## 📅 Aujourd'hui
+
+Nous sommes le **<#today_date>**.
+
+---
+
+## 💡 Citation du jour
+
+> <#random_quote>
+
+---
+
+*README mis à jour automatiquement tous les jours* ✨
 `;

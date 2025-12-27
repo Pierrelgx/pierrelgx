@@ -1,5 +1,6 @@
 const { promises: fs } = require('fs');
 const readme = require('./readme');
+const quotes = require('./quotes');
 
 const msInOneDay = 1000 * 60 * 60 * 24;
 
@@ -21,6 +22,8 @@ function generateNewREADME() {
     variable_duree: getCodingDuration(),
     variable_age: getCurrentAge(),
     mood: getMood(),
+    today_date: getTodayDate(),
+    random_quote: getRandomQuote(),
   };
 
   Object.entries(identifierToUpdate).forEach(([key, value]) => {
@@ -46,6 +49,16 @@ function getCurrentAge() {
 
 function getMood() {
   return "joviaaaaale";
+}
+
+function getTodayDate() {
+  const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+  return today.toLocaleDateString('fr-FR', options);
+}
+
+function getRandomQuote() {
+  const randomIndex = Math.floor(Math.random() * quotes.length);
+  return quotes[randomIndex];
 }
 
 const findIdentifierIndex = (rows, identifier) =>

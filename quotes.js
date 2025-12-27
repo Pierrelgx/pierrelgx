@@ -1,0 +1,22 @@
+module.exports = [
+  "Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais.",
+  "Il n'y a pas de bug, seulement des fonctionnalités non documentées.",
+  "La meilleure façon de prédire l'avenir, c'est de le coder.",
+  "Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.",
+  "Le code parfait n'existe pas, mais le code qui fonctionne si.",
+  "Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.",
+  "Le café transforme le code en fonctionnalités.",
+  "Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.",
+  "La documentation, c'est un cadeau que tu fais à ton futur toi.",
+  "Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.",
+  "Les vrais développeurs testent en production.",
+  "Copy-paste from StackOverflow is not plagiarism, it's collaboration.",
+  "Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.",
+  "Pourquoi faire simple quand on peut faire compliqué ?",
+  "Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.",
+  "Coder tard le soir : où les bugs deviennent des fonctionnalités.",
+  "Je ne suis pas paresseux, j'automatise juste ma procrastination.",
+  "Le développement web : où tout est cassé, mais d'une manière différente chaque jour.",
+  "Si le plan A ne marche pas, l'alphabet a encore 25 lettres.",
+  "Keep calm and git commit."
+];
