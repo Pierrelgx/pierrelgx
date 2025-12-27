@@ -7,11 +7,27 @@
 
 ---
 
-## 📊 Mon parcours
+## 📊 GitHub Stats
 
-J'ai commencé ma toute première ligne de code depuis très exactement **1456 jours**.
+<div align="center">
 
-J'ai actuellement **32 ans** et je suis d'humeur **joviaaaaale**.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pierrelgx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierrelgx&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🛠️ Technologies & Compétences
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -23,7 +39,7 @@ Nous sommes le **samedi 27 décembre 2025**.
 
 ## 💡 Citation du jour
 
-> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
+> Le code parfait n'existe pas, mais le code qui fonctionne si.
 
 ---
 
