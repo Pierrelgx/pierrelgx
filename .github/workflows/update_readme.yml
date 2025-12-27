@@ -19,8 +19,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: Update README.md file
-        run: |
-          node index.js > README.md
+        run: node index.js
         env:
           CI: true
       - name: commit changes
@@ -28,6 +27,7 @@ jobs:
         with:
           author_name: Pierrelgx
           author_email: pl.informatique47@gmail.com
+          add: 'README.md'
           force: false
           signoff: false
           message: ':memo: README.md updated !'

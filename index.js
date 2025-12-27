@@ -66,9 +66,13 @@ const findIdentifierIndex = (rows, identifier) =>
 
 const updateREADMEFile = (text) => fs.writeFile('./README.md', text);
 
-function main() {
+async function main() {
   const newREADME = generateNewREADME();
-  console.log(newREADME);
-  updateREADMEFile(newREADME);
+  await updateREADMEFile(newREADME);
+  console.log('✅ README.md mis à jour avec succès !');
 }
-main();
+
+main().catch(err => {
+  console.error('❌ Erreur:', err);
+  process.exit(1);
+});
