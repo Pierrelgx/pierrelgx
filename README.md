@@ -23,7 +23,7 @@ Nous sommes le **samedi 27 décembre 2025**.
 
 ## 💡 Citation du jour
 
-> La documentation, c'est un cadeau que tu fais à ton futur toi.
+> Coder tard le soir : où les bugs deviennent des fonctionnalités.
 
 ---
 
