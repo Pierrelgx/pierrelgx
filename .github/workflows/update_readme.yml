@@ -26,6 +26,15 @@ jobs:
         run: |
           git diff
           git status
+      - name: Debug token
+        run: |
+          if [ -z "${{ secrets.GH_TOKEN }}" ]; then
+            echo "❌ GH_TOKEN est vide ou inexistant !"
+          else
+            echo "✅ GH_TOKEN existe (longueur: ${#GH_TOKEN})"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Commit and push changes
         run: |
           git config --local user.name "Pierrelgx"
