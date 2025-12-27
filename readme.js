@@ -7,18 +7,6 @@ module.exports = `# 👨‍💻 Pierre Legoux
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pierrelgx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierrelgx&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🛠️ Technologies & Compétences
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
