@@ -27,7 +27,7 @@ Nous sommes le **samedi 27 décembre 2025**.
 
 ## 💡 Citation du jour
 
-> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
+> Je ne suis pas paresseux, j'automatise juste ma procrastination.
 
 ---
 
