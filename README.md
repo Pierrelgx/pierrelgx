@@ -23,7 +23,7 @@ Nous sommes le **samedi 27 décembre 2025**.
 
 ## 💡 Citation du jour
 
-> Le café transforme le code en fonctionnalités.
+> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
 
 ---
 
