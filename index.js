@@ -19,9 +19,6 @@ function generateNewREADME() {
   }
 
   const identifierToUpdate = {
-    variable_duree: getCodingDuration(),
-    variable_age: getCurrentAge(),
-    mood: getMood(),
     today_date: getTodayDate(),
     random_quote: getRandomQuote(),
   };
@@ -31,24 +28,6 @@ function generateNewREADME() {
   });
 
   return readmeRow.join('\n');
-}
-
-function getCodingDuration() {
-  const startCodingDate = new Date('2022-01-01');
-  const diffInMs = today - startCodingDate;
-  const diffInDays = Math.floor(diffInMs / msInOneDay);
-  return `${diffInDays} jours`;
-}
-
-function getCurrentAge() {
-  const birthDate = new Date('1993-07-20');
-  const ageInMs = today - birthDate;
-  const ageDate = new Date(ageInMs);
-  return `${Math.abs(ageDate.getUTCFullYear() - 1970)} ans`;
-}
-
-function getMood() {
-  return "joviaaaaale";
 }
 
 function getTodayDate() {
