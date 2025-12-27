@@ -23,7 +23,7 @@ Nous sommes le **samedi 27 décembre 2025**.
 
 ## 💡 Citation du jour
 
-> Coder tard le soir : où les bugs deviennent des fonctionnalités.
+> Le café transforme le code en fonctionnalités.
 
 ---
 
