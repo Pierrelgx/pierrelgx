@@ -27,13 +27,11 @@ jobs:
           git diff
           git status
       - name: commit changes
-        uses: EndBug/add-and-commit@v4
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: Pierrelgx
           author_email: pl.informatique47@gmail.com
           add: 'README.md'
-          force: false
-          signoff: false
           message: ':memo: README.md updated !'
         env:
           # This is necessary in order to push a commit to the repo
