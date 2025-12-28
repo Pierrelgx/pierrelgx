@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 27 décembre 2025**.
+Nous sommes le **dimanche 28 décembre 2025**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Je ne suis pas paresseux, j'automatise juste ma procrastination.
+> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
 
 ---
 
