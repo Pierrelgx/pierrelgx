@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 28 décembre 2025**.
+Nous sommes le **lundi 29 décembre 2025**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
+> La documentation, c'est un cadeau que tu fais à ton futur toi.
 
 ---
 
