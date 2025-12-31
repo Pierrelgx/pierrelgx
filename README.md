@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 30 décembre 2025**.
+Nous sommes le **mercredi 31 décembre 2025**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Coder tard le soir : où les bugs deviennent des fonctionnalités.
+> Le code parfait n'existe pas, mais le code qui fonctionne si.
 
 ---
 
