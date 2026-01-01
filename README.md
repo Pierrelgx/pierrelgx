@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 31 décembre 2025**.
+Nous sommes le **jeudi 1 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code parfait n'existe pas, mais le code qui fonctionne si.
+> Pourquoi faire simple quand on peut faire compliqué ?
 
 ---
 
