@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 1 janvier 2026**.
+Nous sommes le **vendredi 2 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Pourquoi faire simple quand on peut faire compliqué ?
+> La documentation, c'est un cadeau que tu fais à ton futur toi.
 
 ---
 
