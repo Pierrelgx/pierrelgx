@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 3 janvier 2026**.
+Nous sommes le **dimanche 4 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Copy-paste from StackOverflow is not plagiarism, it's collaboration.
+> La documentation, c'est un cadeau que tu fais à ton futur toi.
 
 ---
 
