@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 4 janvier 2026**.
+Nous sommes le **lundi 5 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La documentation, c'est un cadeau que tu fais à ton futur toi.
+> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
 
 ---
 
