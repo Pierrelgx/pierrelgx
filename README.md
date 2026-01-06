@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 5 janvier 2026**.
+Nous sommes le **mardi 6 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
+> Les vrais développeurs testent en production.
 
 ---
 
