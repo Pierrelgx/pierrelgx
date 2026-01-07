@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 6 janvier 2026**.
+Nous sommes le **mercredi 7 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Les vrais développeurs testent en production.
+> Coder tard le soir : où les bugs deviennent des fonctionnalités.
 
 ---
 
