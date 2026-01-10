@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 9 janvier 2026**.
+Nous sommes le **samedi 10 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code parfait n'existe pas, mais le code qui fonctionne si.
+> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
 
 ---
 
