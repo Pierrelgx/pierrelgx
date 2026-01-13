@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 12 janvier 2026**.
+Nous sommes le **mardi 13 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La documentation, c'est un cadeau que tu fais à ton futur toi.
+> Le café transforme le code en fonctionnalités.
 
 ---
 
