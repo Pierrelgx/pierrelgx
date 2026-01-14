@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 13 janvier 2026**.
+Nous sommes le **mercredi 14 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le café transforme le code en fonctionnalités.
+> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
 
 ---
 
