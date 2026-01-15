@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 14 janvier 2026**.
+Nous sommes le **jeudi 15 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
+> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
 
 ---
 
