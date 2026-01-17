@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 16 janvier 2026**.
+Nous sommes le **samedi 17 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le café transforme le code en fonctionnalités.
+> Coder tard le soir : où les bugs deviennent des fonctionnalités.
 
 ---
 
