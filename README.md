@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 17 janvier 2026**.
+Nous sommes le **dimanche 18 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Coder tard le soir : où les bugs deviennent des fonctionnalités.
+> Keep calm and git commit.
 
 ---
 
