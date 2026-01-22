@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 21 janvier 2026**.
+Nous sommes le **jeudi 22 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La meilleure façon de prédire l'avenir, c'est de le coder.
+> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
 
 ---
 
