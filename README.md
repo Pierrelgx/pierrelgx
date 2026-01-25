@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 24 janvier 2026**.
+Nous sommes le **dimanche 25 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Pourquoi faire simple quand on peut faire compliqué ?
+> Le code parfait n'existe pas, mais le code qui fonctionne si.
 
 ---
 
