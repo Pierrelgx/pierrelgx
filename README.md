@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 25 janvier 2026**.
+Nous sommes le **lundi 26 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code parfait n'existe pas, mais le code qui fonctionne si.
+> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
 
 ---
 
