@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 26 janvier 2026**.
+Nous sommes le **mardi 27 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
+> Je ne suis pas paresseux, j'automatise juste ma procrastination.
 
 ---
 
