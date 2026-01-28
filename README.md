@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 27 janvier 2026**.
+Nous sommes le **mercredi 28 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Je ne suis pas paresseux, j'automatise juste ma procrastination.
+> Le code parfait n'existe pas, mais le code qui fonctionne si.
 
 ---
 
