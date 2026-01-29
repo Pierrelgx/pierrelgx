@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 28 janvier 2026**.
+Nous sommes le **jeudi 29 janvier 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code parfait n'existe pas, mais le code qui fonctionne si.
+> Keep calm and git commit.
 
 ---
 
