@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 31 janvier 2026**.
+Nous sommes le **dimanche 1 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
+> Je ne suis pas paresseux, j'automatise juste ma procrastination.
 
 ---
 
