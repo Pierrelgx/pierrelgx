@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 1 février 2026**.
+Nous sommes le **lundi 2 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Je ne suis pas paresseux, j'automatise juste ma procrastination.
+> Pourquoi faire simple quand on peut faire compliqué ?
 
 ---
 
