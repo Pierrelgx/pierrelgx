@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 5 février 2026**.
+Nous sommes le **vendredi 6 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
+> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
 
 ---
 
