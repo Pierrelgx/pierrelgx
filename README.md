@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 8 février 2026**.
+Nous sommes le **lundi 9 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Copy-paste from StackOverflow is not plagiarism, it's collaboration.
+> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
 
 ---
 
