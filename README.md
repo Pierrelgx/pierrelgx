@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 12 février 2026**.
+Nous sommes le **vendredi 13 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
+> Le code parfait n'existe pas, mais le code qui fonctionne si.
 
 ---
 
