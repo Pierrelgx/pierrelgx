@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 15 février 2026**.
+Nous sommes le **lundi 16 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Copy-paste from StackOverflow is not plagiarism, it's collaboration.
+> Le code parfait n'existe pas, mais le code qui fonctionne si.
 
 ---
 
