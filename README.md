@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 17 février 2026**.
+Nous sommes le **mercredi 18 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
+> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
 
 ---
 
