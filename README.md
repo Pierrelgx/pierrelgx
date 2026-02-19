@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 18 février 2026**.
+Nous sommes le **jeudi 19 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
+> Le café transforme le code en fonctionnalités.
 
 ---
 
