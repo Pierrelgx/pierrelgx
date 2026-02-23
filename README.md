@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 22 février 2026**.
+Nous sommes le **lundi 23 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
+> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
 
 ---
 
