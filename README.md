@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 23 février 2026**.
+Nous sommes le **mardi 24 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
+> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
 
 ---
 
