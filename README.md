@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 24 février 2026**.
+Nous sommes le **mercredi 25 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
+> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
 
 ---
 
