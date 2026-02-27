@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 26 février 2026**.
+Nous sommes le **vendredi 27 février 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
+> Je ne suis pas paresseux, j'automatise juste ma procrastination.
 
 ---
 
