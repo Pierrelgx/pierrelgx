@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 28 février 2026**.
+Nous sommes le **dimanche 1 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
+> Keep calm and git commit.
 
 ---
 
