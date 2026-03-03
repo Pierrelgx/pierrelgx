@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 2 mars 2026**.
+Nous sommes le **mardi 3 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
+> Il n'y a pas de bug, seulement des fonctionnalités non documentées.
 
 ---
 
