@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 4 mars 2026**.
+Nous sommes le **jeudi 5 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
+> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
 
 ---
 
