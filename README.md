@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 5 mars 2026**.
+Nous sommes le **vendredi 6 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
+> Coder tard le soir : où les bugs deviennent des fonctionnalités.
 
 ---
 
