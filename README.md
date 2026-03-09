@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 8 mars 2026**.
+Nous sommes le **lundi 9 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La meilleure façon de prédire l'avenir, c'est de le coder.
+> Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais.
 
 ---
 
