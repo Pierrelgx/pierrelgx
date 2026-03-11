@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 10 mars 2026**.
+Nous sommes le **mercredi 11 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Pourquoi faire simple quand on peut faire compliqué ?
+> Coder tard le soir : où les bugs deviennent des fonctionnalités.
 
 ---
 
