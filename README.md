@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 11 mars 2026**.
+Nous sommes le **jeudi 12 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Coder tard le soir : où les bugs deviennent des fonctionnalités.
+> La documentation, c'est un cadeau que tu fais à ton futur toi.
 
 ---
 
