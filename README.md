@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 15 mars 2026**.
+Nous sommes le **lundi 16 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Je ne suis pas paresseux, j'automatise juste ma procrastination.
+> La meilleure façon de prédire l'avenir, c'est de le coder.
 
 ---
 
