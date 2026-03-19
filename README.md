@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 18 mars 2026**.
+Nous sommes le **jeudi 19 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
+> Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais.
 
 ---
 
