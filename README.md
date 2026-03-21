@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 20 mars 2026**.
+Nous sommes le **samedi 21 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais.
+> La documentation, c'est un cadeau que tu fais à ton futur toi.
 
 ---
 
