@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 25 mars 2026**.
+Nous sommes le **jeudi 26 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code parfait n'existe pas, mais le code qui fonctionne si.
+> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
 
 ---
 
