@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 26 mars 2026**.
+Nous sommes le **vendredi 27 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
+> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
 
 ---
 
