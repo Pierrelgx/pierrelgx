@@ -21,7 +21,7 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 27 mars 2026**.
+Nous sommes le **samedi 28 mars 2026**.
 
 ---
 
