@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 29 mars 2026**.
+Nous sommes le **lundi 30 mars 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Copy-paste from StackOverflow is not plagiarism, it's collaboration.
+> Pourquoi faire simple quand on peut faire compliqué ?
 
 ---
 
