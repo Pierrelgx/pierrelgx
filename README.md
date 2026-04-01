@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 31 mars 2026**.
+Nous sommes le **mercredi 1 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
+> Il n'y a pas de bug, seulement des fonctionnalités non documentées.
 
 ---
 
