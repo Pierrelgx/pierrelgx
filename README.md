@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 2 avril 2026**.
+Nous sommes le **vendredi 3 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
+> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
 
 ---
 
