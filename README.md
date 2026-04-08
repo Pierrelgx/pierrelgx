@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 7 avril 2026**.
+Nous sommes le **mercredi 8 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Keep calm and git commit.
+> La documentation, c'est un cadeau que tu fais à ton futur toi.
 
 ---
 
