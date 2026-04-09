@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 8 avril 2026**.
+Nous sommes le **jeudi 9 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La documentation, c'est un cadeau que tu fais à ton futur toi.
+> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
 
 ---
 
