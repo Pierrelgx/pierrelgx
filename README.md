@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 9 avril 2026**.
+Nous sommes le **vendredi 10 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
+> Les vrais développeurs testent en production.
 
 ---
 
