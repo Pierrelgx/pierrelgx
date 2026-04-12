@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 11 avril 2026**.
+Nous sommes le **dimanche 12 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
+> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
 
 ---
 
