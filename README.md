@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 12 avril 2026**.
+Nous sommes le **lundi 13 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
+> Il n'y a pas de bug, seulement des fonctionnalités non documentées.
 
 ---
 
