@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 14 avril 2026**.
+Nous sommes le **mercredi 15 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
+> Je ne suis pas paresseux, j'automatise juste ma procrastination.
 
 ---
 
