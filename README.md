@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 15 avril 2026**.
+Nous sommes le **jeudi 16 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Je ne suis pas paresseux, j'automatise juste ma procrastination.
+> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
 
 ---
 
