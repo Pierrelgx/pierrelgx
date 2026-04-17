@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 16 avril 2026**.
+Nous sommes le **vendredi 17 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
+> La meilleure façon de prédire l'avenir, c'est de le coder.
 
 ---
 
