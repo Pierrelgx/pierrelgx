@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 17 avril 2026**.
+Nous sommes le **samedi 18 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La meilleure façon de prédire l'avenir, c'est de le coder.
+> Pourquoi faire simple quand on peut faire compliqué ?
 
 ---
 
