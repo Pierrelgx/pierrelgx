@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 20 avril 2026**.
+Nous sommes le **mardi 21 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il n'y a pas de bug, seulement des fonctionnalités non documentées.
+> Coder tard le soir : où les bugs deviennent des fonctionnalités.
 
 ---
 
