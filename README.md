@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 22 avril 2026**.
+Nous sommes le **jeudi 23 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Copy-paste from StackOverflow is not plagiarism, it's collaboration.
+> Les vrais développeurs testent en production.
 
 ---
 
