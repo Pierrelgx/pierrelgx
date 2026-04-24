@@ -21,7 +21,7 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 23 avril 2026**.
+Nous sommes le **vendredi 24 avril 2026**.
 
 ---
 
