@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 27 avril 2026**.
+Nous sommes le **mardi 28 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
+> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
 
 ---
 
