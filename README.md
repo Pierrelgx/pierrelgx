@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 28 avril 2026**.
+Nous sommes le **mercredi 29 avril 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
+> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
 
 ---
 
