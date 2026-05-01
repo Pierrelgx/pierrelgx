@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 30 avril 2026**.
+Nous sommes le **vendredi 1 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
+> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
 
 ---
 
