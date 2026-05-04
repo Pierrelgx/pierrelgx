@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 3 mai 2026**.
+Nous sommes le **lundi 4 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
+> Le café transforme le code en fonctionnalités.
 
 ---
 
