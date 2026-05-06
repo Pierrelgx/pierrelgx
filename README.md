@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 5 mai 2026**.
+Nous sommes le **mercredi 6 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Copy-paste from StackOverflow is not plagiarism, it's collaboration.
+> Je ne suis pas paresseux, j'automatise juste ma procrastination.
 
 ---
 
