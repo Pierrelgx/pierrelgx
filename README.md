@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 6 mai 2026**.
+Nous sommes le **jeudi 7 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Je ne suis pas paresseux, j'automatise juste ma procrastination.
+> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
 
 ---
 
