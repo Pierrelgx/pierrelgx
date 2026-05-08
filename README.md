@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 7 mai 2026**.
+Nous sommes le **vendredi 8 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
+> Le café transforme le code en fonctionnalités.
 
 ---
 
