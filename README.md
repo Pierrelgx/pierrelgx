@@ -21,7 +21,7 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 8 mai 2026**.
+Nous sommes le **samedi 9 mai 2026**.
 
 ---
 
