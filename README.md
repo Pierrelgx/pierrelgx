@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 11 mai 2026**.
+Nous sommes le **mardi 12 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La meilleure façon de prédire l'avenir, c'est de le coder.
+> Le café transforme le code en fonctionnalités.
 
 ---
 
