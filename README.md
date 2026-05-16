@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 15 mai 2026**.
+Nous sommes le **samedi 16 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
+> Le café transforme le code en fonctionnalités.
 
 ---
 
