@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 17 mai 2026**.
+Nous sommes le **lundi 18 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
+> Coder tard le soir : où les bugs deviennent des fonctionnalités.
 
 ---
 
