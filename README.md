@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 21 mai 2026**.
+Nous sommes le **vendredi 22 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
+> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
 
 ---
 
