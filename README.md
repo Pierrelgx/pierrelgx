@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 22 mai 2026**.
+Nous sommes le **samedi 23 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
+> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
 
 ---
 
