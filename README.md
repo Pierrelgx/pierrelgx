@@ -27,7 +27,7 @@ Nous sommes le **mercredi 27 mai 2026**.
 
 ## 💡 Citation du jour
 
-> La documentation, c'est un cadeau que tu fais à ton futur toi.
+> Il n'y a pas de bug, seulement des fonctionnalités non documentées.
 
 ---
 
