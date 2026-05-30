@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 29 mai 2026**.
+Nous sommes le **samedi 30 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Pourquoi faire simple quand on peut faire compliqué ?
+> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
 
 ---
 
