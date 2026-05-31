@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 30 mai 2026**.
+Nous sommes le **dimanche 31 mai 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
+> La meilleure façon de prédire l'avenir, c'est de le coder.
 
 ---
 
