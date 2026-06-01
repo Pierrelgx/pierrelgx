@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 31 mai 2026**.
+Nous sommes le **lundi 1 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La meilleure façon de prédire l'avenir, c'est de le coder.
+> Coder tard le soir : où les bugs deviennent des fonctionnalités.
 
 ---
 
