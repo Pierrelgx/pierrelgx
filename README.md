@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 1 juin 2026**.
+Nous sommes le **mardi 2 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Coder tard le soir : où les bugs deviennent des fonctionnalités.
+> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
 
 ---
 
