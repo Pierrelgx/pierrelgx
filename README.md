@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 2 juin 2026**.
+Nous sommes le **mercredi 3 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
+> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
 
 ---
 
