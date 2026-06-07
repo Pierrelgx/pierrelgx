@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 6 juin 2026**.
+Nous sommes le **dimanche 7 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
+> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
 
 ---
 
