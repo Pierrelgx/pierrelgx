@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 9 juin 2026**.
+Nous sommes le **mercredi 10 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
+> La meilleure façon de prédire l'avenir, c'est de le coder.
 
 ---
 
