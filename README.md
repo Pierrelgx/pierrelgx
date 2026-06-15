@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 14 juin 2026**.
+Nous sommes le **lundi 15 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Copy-paste from StackOverflow is not plagiarism, it's collaboration.
+> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
 
 ---
 
