@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 15 juin 2026**.
+Nous sommes le **mardi 16 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
+> La documentation, c'est un cadeau que tu fais à ton futur toi.
 
 ---
 
