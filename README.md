@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 18 juin 2026**.
+Nous sommes le **vendredi 19 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais.
+> Pourquoi faire simple quand on peut faire compliqué ?
 
 ---
 
