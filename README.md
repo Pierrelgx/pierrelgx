@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 19 juin 2026**.
+Nous sommes le **samedi 20 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Pourquoi faire simple quand on peut faire compliqué ?
+> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
 
 ---
 
