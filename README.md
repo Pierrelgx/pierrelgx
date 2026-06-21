@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 20 juin 2026**.
+Nous sommes le **dimanche 21 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
+> Pourquoi faire simple quand on peut faire compliqué ?
 
 ---
 
