@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 24 juin 2026**.
+Nous sommes le **jeudi 25 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le café transforme le code en fonctionnalités.
+> Les vrais développeurs testent en production.
 
 ---
 
