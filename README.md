@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 25 juin 2026**.
+Nous sommes le **vendredi 26 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Les vrais développeurs testent en production.
+> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
 
 ---
 
