@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 29 juin 2026**.
+Nous sommes le **mardi 30 juin 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais.
+> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
 
 ---
 
