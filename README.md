@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 1 juillet 2026**.
+Nous sommes le **jeudi 2 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Copy-paste from StackOverflow is not plagiarism, it's collaboration.
+> La meilleure façon de prédire l'avenir, c'est de le coder.
 
 ---
 
