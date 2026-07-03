@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 2 juillet 2026**.
+Nous sommes le **vendredi 3 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La meilleure façon de prédire l'avenir, c'est de le coder.
+> Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais.
 
 ---
 
