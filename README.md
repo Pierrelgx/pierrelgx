@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 4 juillet 2026**.
+Nous sommes le **dimanche 5 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Je ne suis pas paresseux, j'automatise juste ma procrastination.
+> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
 
 ---
 
