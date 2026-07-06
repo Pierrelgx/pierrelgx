@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 5 juillet 2026**.
+Nous sommes le **lundi 6 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
+> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
 
 ---
 
