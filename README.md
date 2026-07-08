@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 7 juillet 2026**.
+Nous sommes le **mercredi 8 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
+> La documentation, c'est un cadeau que tu fais à ton futur toi.
 
 ---
 
