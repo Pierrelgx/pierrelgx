@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 10 juillet 2026**.
+Nous sommes le **samedi 11 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il n'y a pas de bug, seulement des fonctionnalités non documentées.
+> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
 
 ---
 
