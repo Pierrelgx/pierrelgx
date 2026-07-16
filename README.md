@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 15 juillet 2026**.
+Nous sommes le **jeudi 16 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il n'y a pas de bug, seulement des fonctionnalités non documentées.
+> Le code parfait n'existe pas, mais le code qui fonctionne si.
 
 ---
 
