@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 16 juillet 2026**.
+Nous sommes le **vendredi 17 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code parfait n'existe pas, mais le code qui fonctionne si.
+> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
 
 ---
 
