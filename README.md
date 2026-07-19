@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 18 juillet 2026**.
+Nous sommes le **dimanche 19 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
+> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
 
 ---
 
