@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 21 juillet 2026**.
+Nous sommes le **mercredi 22 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
+> Il n'y a pas de bug, seulement des fonctionnalités non documentées.
 
 ---
 
