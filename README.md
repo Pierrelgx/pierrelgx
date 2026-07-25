@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 24 juillet 2026**.
+Nous sommes le **samedi 25 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code parfait n'existe pas, mais le code qui fonctionne si.
+> La meilleure façon de prédire l'avenir, c'est de le coder.
 
 ---
 
