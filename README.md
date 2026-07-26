@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 25 juillet 2026**.
+Nous sommes le **dimanche 26 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La meilleure façon de prédire l'avenir, c'est de le coder.
+> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
 
 ---
 
