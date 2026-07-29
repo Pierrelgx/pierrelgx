@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 28 juillet 2026**.
+Nous sommes le **mercredi 29 juillet 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Copy-paste from StackOverflow is not plagiarism, it's collaboration.
+> Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais.
 
 ---
 
