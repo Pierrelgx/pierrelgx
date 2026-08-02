@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 1 août 2026**.
+Nous sommes le **dimanche 2 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
+> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
 
 ---
 
