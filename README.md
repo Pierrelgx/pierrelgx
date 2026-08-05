@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 4 août 2026**.
+Nous sommes le **mercredi 5 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La documentation, c'est un cadeau que tu fais à ton futur toi.
+> Pourquoi faire simple quand on peut faire compliqué ?
 
 ---
 
