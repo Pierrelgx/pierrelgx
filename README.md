@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 5 août 2026**.
+Nous sommes le **jeudi 6 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Pourquoi faire simple quand on peut faire compliqué ?
+> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
 
 ---
 
