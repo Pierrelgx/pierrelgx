@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 8 août 2026**.
+Nous sommes le **dimanche 9 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Keep calm and git commit.
+> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
 
 ---
 
