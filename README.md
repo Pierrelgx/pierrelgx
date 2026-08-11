@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 10 août 2026**.
+Nous sommes le **mardi 11 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
+> La meilleure façon de prédire l'avenir, c'est de le coder.
 
 ---
 
