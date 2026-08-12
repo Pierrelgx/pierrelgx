@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 11 août 2026**.
+Nous sommes le **mercredi 12 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La meilleure façon de prédire l'avenir, c'est de le coder.
+> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
 
 ---
 
