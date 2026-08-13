@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 12 août 2026**.
+Nous sommes le **jeudi 13 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
+> Les vrais développeurs testent en production.
 
 ---
 
