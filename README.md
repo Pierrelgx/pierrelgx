@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 13 août 2026**.
+Nous sommes le **vendredi 14 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Les vrais développeurs testent en production.
+> Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais.
 
 ---
 
