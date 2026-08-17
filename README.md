@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 16 août 2026**.
+Nous sommes le **lundi 17 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
+> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
 
 ---
 
