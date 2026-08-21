@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 20 août 2026**.
+Nous sommes le **vendredi 21 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
+> Le code parfait n'existe pas, mais le code qui fonctionne si.
 
 ---
 
