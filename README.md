@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 22 août 2026**.
+Nous sommes le **dimanche 23 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Pourquoi faire simple quand on peut faire compliqué ?
+> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
 
 ---
 
