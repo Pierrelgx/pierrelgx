@@ -21,7 +21,7 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 23 août 2026**.
+Nous sommes le **lundi 24 août 2026**.
 
 ---
 
