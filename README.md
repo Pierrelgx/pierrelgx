@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 24 août 2026**.
+Nous sommes le **mardi 25 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
+> Coder tard le soir : où les bugs deviennent des fonctionnalités.
 
 ---
 
