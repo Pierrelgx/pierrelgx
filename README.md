@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 25 août 2026**.
+Nous sommes le **mercredi 26 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Coder tard le soir : où les bugs deviennent des fonctionnalités.
+> Le code parfait n'existe pas, mais le code qui fonctionne si.
 
 ---
 
