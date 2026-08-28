@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 27 août 2026**.
+Nous sommes le **vendredi 28 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le café transforme le code en fonctionnalités.
+> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
 
 ---
 
