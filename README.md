@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 28 août 2026**.
+Nous sommes le **samedi 29 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
+> Le code parfait n'existe pas, mais le code qui fonctionne si.
 
 ---
 
