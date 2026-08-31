@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 30 août 2026**.
+Nous sommes le **lundi 31 août 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
+> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
 
 ---
 
