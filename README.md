@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 2 septembre 2026**.
+Nous sommes le **jeudi 3 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le seul endroit où 'succès' vient avant 'travail', c'est dans le dictionnaire.
+> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
 
 ---
 
