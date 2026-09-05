@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 4 septembre 2026**.
+Nous sommes le **samedi 5 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
+> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
 
 ---
 
