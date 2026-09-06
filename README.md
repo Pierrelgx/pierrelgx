@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **samedi 5 septembre 2026**.
+Nous sommes le **dimanche 6 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Code toujours comme si la personne qui maintiendra ton code était un psychopathe violent qui sait où tu habites.
+> Il n'y a pas de bug, seulement des fonctionnalités non documentées.
 
 ---
 
