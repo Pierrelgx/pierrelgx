@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 6 septembre 2026**.
+Nous sommes le **lundi 7 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il n'y a pas de bug, seulement des fonctionnalités non documentées.
+> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
 
 ---
 
