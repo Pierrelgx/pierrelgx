@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 7 septembre 2026**.
+Nous sommes le **mardi 8 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
+> La meilleure façon de prédire l'avenir, c'est de le coder.
 
 ---
 
