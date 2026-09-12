@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 11 septembre 2026**.
+Nous sommes le **samedi 12 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Copy-paste from StackOverflow is not plagiarism, it's collaboration.
+> Le café transforme le code en fonctionnalités.
 
 ---
 
