@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 13 septembre 2026**.
+Nous sommes le **lundi 14 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais.
+> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
 
 ---
 
