@@ -21,7 +21,7 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 14 septembre 2026**.
+Nous sommes le **mardi 15 septembre 2026**.
 
 ---
 
