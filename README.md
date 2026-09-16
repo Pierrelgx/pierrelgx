@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mardi 15 septembre 2026**.
+Nous sommes le **mercredi 16 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Il y a deux types de langages de programmation : ceux dont tout le monde se plaint et ceux que personne n'utilise.
+> Coder tard le soir : où les bugs deviennent des fonctionnalités.
 
 ---
 
