@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 16 septembre 2026**.
+Nous sommes le **jeudi 17 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Coder tard le soir : où les bugs deviennent des fonctionnalités.
+> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
 
 ---
 
