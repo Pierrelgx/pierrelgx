@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 17 septembre 2026**.
+Nous sommes le **vendredi 18 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Debugger, c'est comme être le détective dans un film où tu es aussi le meurtrier.
+> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
 
 ---
 
