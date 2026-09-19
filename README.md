@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 18 septembre 2026**.
+Nous sommes le **samedi 19 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le développement web : où tout est cassé, mais d'une manière différente chaque jour.
+> Un développeur qui ne fait jamais d'erreur ne prend jamais de risques.
 
 ---
 
