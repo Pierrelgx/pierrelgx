@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **jeudi 24 septembre 2026**.
+Nous sommes le **vendredi 25 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Je ne suis pas paresseux, j'automatise juste ma procrastination.
+> Le café transforme le code en fonctionnalités.
 
 ---
 
