@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **vendredi 25 septembre 2026**.
+Nous sommes le **samedi 26 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Le café transforme le code en fonctionnalités.
+> Si ça marche en local, ça marchera en prod. Narrator: Ça ne marchera pas en prod.
 
 ---
 
