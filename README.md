@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **dimanche 27 septembre 2026**.
+Nous sommes le **lundi 28 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Les vrais développeurs testent en production.
+> La documentation, c'est un cadeau que tu fais à ton futur toi.
 
 ---
 
