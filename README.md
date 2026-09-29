@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **lundi 28 septembre 2026**.
+Nous sommes le **mardi 29 septembre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> La documentation, c'est un cadeau que tu fais à ton futur toi.
+> Si le plan A ne marche pas, l'alphabet a encore 25 lettres.
 
 ---
 
