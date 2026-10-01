@@ -21,13 +21,13 @@
 
 ## 📅 Aujourd'hui
 
-Nous sommes le **mercredi 30 septembre 2026**.
+Nous sommes le **jeudi 1 octobre 2026**.
 
 ---
 
 ## 💡 Citation du jour
 
-> Les vrais développeurs testent en production.
+> Je ne suis pas paresseux, j'automatise juste ma procrastination.
 
 ---
 
