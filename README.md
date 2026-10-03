@@ -19,11 +19,6 @@
 
 ---
 
-## 📅 Aujourd'hui
-
-Nous sommes le **vendredi 2 octobre 2026**.
-
----
 
 ## 💡 Citation du jour
 
@@ -31,4 +26,3 @@ Nous sommes le **vendredi 2 octobre 2026**.
 
 ---
 
-*README mis à jour automatiquement tous les jours* ✨
